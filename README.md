@@ -12,6 +12,7 @@
 # Note
 - If user chooses option to geocode the results, the geocoder only allows X items per month before the service is deactivated. I believe the service cuts off at 10,000 items.
 - If user chooses to not geocode results, the program can be ran without limit.
+- I apologize for the seemingly repetative functions, but I used them to guide the user through the program.
 - The program is designed to walk the user through the process. See below...
 
 # Interface Example
